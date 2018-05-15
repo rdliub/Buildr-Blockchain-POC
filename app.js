@@ -1,12 +1,4 @@
-/*
-EPISODE 1
-https://www.youtube.com/watch?v=YDSJpIrPmgM
 
-VIDEO SERIES
-
-FINISH UP GETTING YOUR CODE ON WEB3JS TO BECOME A WRAPPER
-
-*/
 
 /*
   Custodial Contract Methods:
