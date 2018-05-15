@@ -1,8 +1,8 @@
 # Buildr
+Buildr is empowering displaced individuals and families.
 
 [![N|Solid](https://static1.squarespace.com/static/5ae7bf33ec4eb776c4c5c721/t/5aef183c88251b5dc4569f9b/1525654259920/?format=1500w)](https://nodesource.com/products/nsolid)
 
-Buildr is empowering displaced individuals and families.
 
 Buildr seeks to create a blockchain-based crowdfunding model that can provide every U.S.-settled refugee with access to quality, affordable housing.
 
