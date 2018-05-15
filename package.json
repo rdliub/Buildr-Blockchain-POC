@@ -1,0 +1,17 @@
+{
+  "name": "BuildrBlockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "Buildr": "echo Hello"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "web3": "^1.0.0-beta.34"
+  }
+}
